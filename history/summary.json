@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kuxav.1423.my.id.ico",
     "slug": "kxv-x-ngadem-in",
     "status": "down",
-    "uptime": "6.78%",
-    "uptimeDay": "6.78%",
-    "uptimeWeek": "6.78%",
-    "uptimeMonth": "6.78%",
-    "uptimeYear": "6.78%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 501,
     "timeDay": 501,
     "timeWeek": 501,
     "timeMonth": 501,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2023-02-26": 0
+      "2023-02-26": 36
     }
   },
   {
