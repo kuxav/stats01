@@ -42,7 +42,7 @@ status-website:
     incidentReport: "Laporan insiden #$NUMBER →"
     activeIncidentSummary: "Dibuka tgl $DATE (miladiyah) dengan $POSTS kiriman"
     incidentTitle: "Rincian insiden $NUMBER"
-    incidentDetails: 'Rincian insiden"
+    incidentDetails: "Rincian insiden"
     incidentFixed: "Diperbaiki"
     incidentOngoing: "Dlm berlangsung"
     incidentOpenedAt: "Dibuka pada "
