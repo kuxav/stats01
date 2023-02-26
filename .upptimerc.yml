@@ -1,6 +1,7 @@
 # Change these first
 owner: kuxav # Your GitHub organization or username, where this repository lives
 repo: stats01 # The name of this repository
+skipDescriptionUpdate: true
 
 sites:
   - name: Utama/Main
@@ -17,10 +18,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: 1.1423.my.id
   # baseUrl: /stats01
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://avatars.githubusercontent.com/u/112876441?s=400&u=e0e17427add699a8808ffb7d3607bc49426fd64c&v=4
+  name: ---------
   introTitle: "Halaman status"
   introMessage: Ya emang ini halaman status...
+  theme: night
   navbar:
     - title: Status
       href: /
