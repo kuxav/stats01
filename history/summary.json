@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 200,
     "timeDay": 213,
-    "timeWeek": 183,
+    "timeWeek": 187,
     "timeMonth": 200,
     "timeYear": 200,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 104,
-    "timeWeek": 105,
+    "timeWeek": 107,
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeYear": "0.00%",
     "time": 461,
     "timeDay": 471,
-    "timeWeek": 457,
+    "timeWeek": 456,
     "timeMonth": 461,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2023-03-05": 66,
+      "2023-03-05": 279,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
@@ -67,7 +67,7 @@
     "url": "https://77.1423.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/77.1423.my.id.ico",
     "slug": "qiqi-x-1423",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -75,9 +75,11 @@
     "uptimeYear": "100.00%",
     "time": 487,
     "timeDay": 503,
-    "timeWeek": 501,
+    "timeWeek": 486,
     "timeMonth": 487,
     "timeYear": 487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-05": 0
+    }
   }
 ]
