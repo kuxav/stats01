@@ -4,12 +4,12 @@ repo: stats01 # The name of this repository
 skipDescriptionUpdate: true
 
 sites:
-  - name: Utama/Main
+  - name: start.1423
     url: https://start.1423.my.id
-  - name: Utama/Main at pages.dev
+  - name: with_pages.dev
     url: https://1423.pages.dev
-  - name: KXV x ngadem.in
-    url: https://kuxav.1423.my.id
+  - name: Berkas
+    url: https://berkas.1423.my.id
   - name: Qiqi x 1423
     url: https://77.1423.my.id
 
@@ -31,8 +31,6 @@ status-website:
       href: http://1423.my.id
     - title: "77"
       href: http://77.1423.my.id
-    - title: Public File
-      href: http://file.1423.my.id
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
